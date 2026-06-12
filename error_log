@@ -1,0 +1,28 @@
+[11-Jun-2026 11:46:32 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 392
+[11-Jun-2026 11:46:32 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 396
+[11-Jun-2026 11:46:32 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 403
+[11-Jun-2026 11:46:32 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 512
+[11-Jun-2026 11:46:39 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 392
+[11-Jun-2026 11:46:39 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 396
+[11-Jun-2026 11:46:39 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 403
+[11-Jun-2026 11:46:39 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 512
+[11-Jun-2026 11:46:54 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 392
+[11-Jun-2026 11:46:54 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 396
+[11-Jun-2026 11:46:54 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 403
+[11-Jun-2026 11:46:54 Europe/London] PHP Warning:  Undefined variable $active_tab in /home/h348806/public_html/cathlab/index.php on line 512
+[11-Jun-2026 11:48:22 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 196
+[11-Jun-2026 11:48:24 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 196
+[11-Jun-2026 11:48:32 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 196
+[11-Jun-2026 11:48:35 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 196
+[11-Jun-2026 11:48:38 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 196
+[11-Jun-2026 11:50:28 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 171
+[11-Jun-2026 11:50:30 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 171
+[11-Jun-2026 11:50:58 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 171
+[11-Jun-2026 11:52:15 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 171
+[11-Jun-2026 11:55:16 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 128
+[11-Jun-2026 11:55:23 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 128
+[11-Jun-2026 11:55:45 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 128
+[11-Jun-2026 11:55:47 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 128
+[11-Jun-2026 12:00:39 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 130
+[11-Jun-2026 12:00:40 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 130
+[11-Jun-2026 12:00:53 Europe/London] PHP Parse error:  syntax error, unexpected token "else" in /home/h348806/public_html/cathlab/index.php on line 130

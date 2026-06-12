@@ -1,0 +1,24 @@
+# جلوگیری از دسترسی مستقیم به پوشه uploads
+Options -Indexes
+
+# محافظت از فایل‌های حساس
+<FilesMatch "^(config|install)\.php$">
+  Order allow,deny
+  Deny from all
+</FilesMatch>
+
+# اجازه به فایل‌های عادی
+<FilesMatch "\.(php|html|css|js)$">
+  Order allow,deny
+  Allow from all
+</FilesMatch>
+
+# Redirect به index اگه فایل وجود نداشت
+ErrorDocument 403 /index.php
+ErrorDocument 404 /index.php
+
+# PHP settings
+php_flag display_errors Off
+php_value upload_max_filesize 10M
+php_value post_max_size 12M
+php_value max_execution_time 60

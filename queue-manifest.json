@@ -1,0 +1,20 @@
+{
+  "name": "صف انتظار کت‌لب",
+  "short_name": "کت‌لب",
+  "description": "نمایش صف انتظار پزشکان کت‌لب بیمارستان گلستان اهواز",
+  "start_url": "/queue.php",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060e1a",
+  "theme_color": "#060e1a",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%23060e1a'/><text y='380' font-size='380' x='60'>🏥</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
