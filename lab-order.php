@@ -406,6 +406,11 @@ body{font-family:'Vazirmatn',sans-serif;background:var(--bg);color:var(--text);m
 @keyframes shake{0%,100%{transform:translateX(0)}20%,60%{transform:translateX(-5px)}40%,80%{transform:translateX(5px)}}
 @keyframes scaleIn{from{opacity:0;transform:scale(.5)}to{opacity:1;transform:scale(1)}}
 </style>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0b1120">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<script>if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js'));}</script>
 </head>
 <body>
 <div class="bg-layer"></div>

@@ -448,6 +448,11 @@ input[type=checkbox].admit-check{width:16px;height:16px;accent-color:#7c3aed;cur
 @keyframes fadeUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
 @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(.7)}}
 </style>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0b1120">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<script>if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js'));}</script>
 </head>
 <body>
 

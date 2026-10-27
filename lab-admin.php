@@ -218,6 +218,11 @@ tr:hover td{background:rgba(56,189,248,.02)}
 
 @media(max-width:500px){.stats{grid-template-columns:1fr 1fr}}
 </style>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0b1120">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<script>if('serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js'));}</script>
 </head>
 <body>
 <?php if(!$logged_in): ?>
